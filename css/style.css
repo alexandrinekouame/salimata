@@ -1,0 +1,20 @@
+#body1{
+	background-color: grey;
+}
+#titre1{
+color: yellow;
+font-size: 60px
+margin=left:100px;	
+text-align: center;
+}
+.titre2{
+	color: red
+	font-size:70px;
+text-align: right;
+}
+input{
+	background-color: green;
+	border: 4px black dashed;
+	color: yellow; 
+	width: 200px
+}
